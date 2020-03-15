@@ -1,2 +1,2 @@
-# react-context
-A reading list app made with React context + hooks 
+A reading list made with React context + hooks
+
